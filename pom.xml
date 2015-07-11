@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ngReact</artifactId>
-    <version>0.1.6</version>
+    <version>0.1.7-SNAPSHOT</version>
     <name>ngReact</name>
     <description>WebJar for ngReact</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/ngReact</url>
         <connection>scm:git:https://github.com/webjars/ngReact.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ngReact.git</developerConnection>
-        <tag>ngReact-0.1.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
